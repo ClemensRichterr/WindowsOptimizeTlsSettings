@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="TLS REG BSI">
+    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="HKEY_LOCAL_MACHINE">
+        <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="SYSTEM">
+            <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="CurrentControlSet">
+                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="Control">
+                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                        name="SecurityProviders">
+                        <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="SCHANNEL">
+                            <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                name="Ciphers">
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="NULL">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="NULL" status="NULL" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{02B0C278-D607-F8D2-8427-BDEEE3690DFB}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\NULL"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="DES 56/56">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="DES 56/56" status="DES 56/56" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{FF2C1ECC-9BEA-FB1C-BEB1-CC4D2DFA3AC6}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\DES 56/56"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="RC2 40/128">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="RC2 40/128" status="RC2 40/128" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{96EAC4BD-3BF4-D578-B684-D9C3F506C800}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\RC2 40/128"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="RC2 56/128">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="RC2 56/128" status="RC2 56/128" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{13AE97C1-FD4E-343A-705A-1772A8333872}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\RC2 56/128"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="RC2 128/128">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="RC2 128/128" status="RC2 128/128" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{2D3AC46E-4C8C-EC7E-FB24-DB96421A835E}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\RC2 128/128"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="RC4 40/128">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="RC4 40/128" status="RC4 40/128" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{B600864B-9D8D-C71D-D8F8-C1454AD2FB42}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\RC4 40/128"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="RC4 56/128">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="RC4 56/128" status="RC4 56/128" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{E2F585B1-5C49-5986-3DEE-6F75B8BEF710}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\RC4 56/128"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="RC4 64/128">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="RC4 64/128" status="RC4 64/128" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{3C4EEE69-D372-C53E-72AE-2F199CEA99B7}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\RC4 64/128"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="RC4 128/128">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="RC4 128/128" status="RC4 128/128" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{7280DB32-0E5B-13AA-4CFA-11656E6B22E3}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\RC4 128/128"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="Triple DES 168">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="Triple DES 168" status="Triple DES 168" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{FB14A54F-0B06-E8D6-71E0-9D5C8314D42B}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\Triple DES 168"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="AES 128/128">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="AES 128/128" status="AES 128/128" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{1AE2439D-5557-951A-11D5-18A68B7C2A4F}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\AES 128/128"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="AES 256/256">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="AES 256/256" status="AES 256/256" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{7962F196-EAB8-4762-B90B-382058217CA0}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Ciphers\AES 256/256"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                            </Collection>
+                            <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="Hashes">
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="MD5">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="MD5" status="MD5" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{6AF99C7C-29F7-1A0B-849F-2EF63681BBED}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Hashes\MD5"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="SHA">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="SHA" status="SHA" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{DB274443-6A5F-25D1-EA65-3E14C02CAB43}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Hashes\SHA"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="SHA256">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="SHA256" status="SHA256" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{6241D73A-B271-F2E4-8809-1FB475518810}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Hashes\SHA256"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="SHA384">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="SHA384" status="SHA384" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{AAE266B7-C153-A06B-9354-705DE60B1ED8}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Hashes\SHA384"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="SHA512">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="SHA512" status="SHA512" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{A49076C6-A7CD-1D3B-32D5-722A7695B1F1}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Hashes\SHA512"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                            </Collection>
+                            <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                name="KeyExchangeAlgorithms">
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="Diffie-Hellman">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="Diffie-Hellman" status="Diffie-Hellman" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{F17BEF9B-932E-65E2-D423-20D4E598A174}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\KeyExchangeAlgorithms\Diffie-Hellman"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="Diffie-Hellman" status="Diffie-Hellman" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{F81FB275-0452-F26B-C738-9015598DE028}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\KeyExchangeAlgorithms\Diffie-Hellman"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="PKCS">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="PKCS" status="PKCS" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{88B5690A-3A19-A104-B941-646D03F68FB9}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\KeyExchangeAlgorithms\PKCS"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="ECDH">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="ECDH" status="ECDH" image="3"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{F022433D-138D-C96B-8AD3-01B266474C1D}">
+                                        <Properties action="D" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\KeyExchangeAlgorithms\ECDH"
+                                            name="" type="REG_SZ" value="" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                            </Collection>
+                            <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                name="Protocols">
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="Multi-Protocol Unified Hello">
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Client">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{8EBCF847-66D6-B2AB-78BF-E052296EB208}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\Multi-Protocol Unified Hello\Client"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{187B32CC-9565-265E-908A-FC11134DEEEE}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\Multi-Protocol Unified Hello\Client"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Server">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{049FC1BD-5A64-E481-6D1D-7FAA3612DE20}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\Multi-Protocol Unified Hello\Server"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{C6D3A17C-7715-8298-F37C-E8A624CF363A}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\Multi-Protocol Unified Hello\Server"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="PCT 1.0">
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Client">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{44B020C1-C202-22E7-D5DE-9F56F1E0640D}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\PCT 1.0\Client"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{09B74F04-2E1E-C01A-7ABC-8D1A794F40A8}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\PCT 1.0\Client"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Server">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{FFF30D93-010F-D879-8104-D3FE31ECC722}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\PCT 1.0\Server"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{42EA4572-2529-6147-771C-406FBAAF0343}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\PCT 1.0\Server"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="SSL 2.0">
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Client">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{7174B833-313E-3270-6616-281B95A45C75}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\SSL 2.0\Client"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{69EE0C14-634A-ECEE-D315-6EF64CED7A29}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\SSL 2.0\Client"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Server">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{32518C8C-E1B2-607F-8F55-CE72622F6343}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\SSL 2.0\Server"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{0DFB418B-5DB7-1C2B-F37A-3E7469AC546F}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\SSL 2.0\Server"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="SSL 3.0">
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Client">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{B5CAEDC4-F6CA-9BF9-6F8E-30DA565B244D}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\SSL 3.0\Client"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{4BB707DA-8890-D905-A8BA-AE1B50B551A8}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\SSL 3.0\Client"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Server">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{D10112FF-0585-1E71-62F7-495EDBD731E9}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\SSL 3.0\Server"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{90A62B04-3085-F6E4-82F0-2E2F3920F7AD}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\SSL 3.0\Server"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="TLS 1.0">
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Client">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{BFB8A21E-8979-C874-65A4-B04F78DFE8D0}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.0\Client"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{2512A7D3-495B-B7A3-B95F-5A7BE42EC791}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.0\Client"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Server">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{EDA948EE-EA78-DABE-E071-AFD7D45DC426}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.0\Server"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{B3C8A9C8-B6B7-282B-E29F-617D9B9149B7}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.0\Server"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="TLS 1.1">
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Client">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{ED71CD68-731A-2D7C-6711-725F7695292F}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.1\Client"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{48F2A9EE-CD99-0D98-0DD4-BC94553F581A}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.1\Client"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Server">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{DE7933C3-7101-E51A-C090-5C57169F6898}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.1\Server"
+                                                name="Enabled" type="REG_DWORD" value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{47720636-B197-AE65-DBFB-299D24834AA2}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.1\Server"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000001" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                </Collection>
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="TLS 1.2">
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Client">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{39A83028-8194-4B0D-3B96-703E1F7CEF1B}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2\Client"
+                                                name="Enabled" type="REG_DWORD" value="ffffffff" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{D0E94426-487C-5FF1-693A-F218E502BB55}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2\Client"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                        name="Server">
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="Enabled" status="Enabled" image="11"
+                                            changed="2023-02-25 13:32:19"
+                                            uid="{8A438DB9-4277-0C2F-5D42-5A45161FC3B8}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2\Server"
+                                                name="Enabled" type="REG_DWORD" value="ffffffff" />
+                                            <Filters />
+                                        </Registry>
+                                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                            name="DisabledByDefault" status="DisabledByDefault"
+                                            image="11" changed="2023-02-25 13:32:19"
+                                            uid="{5902C722-8649-F11C-7AB9-45F830E2EE14}">
+                                            <Properties action="R" displayDecimal="0" default="0"
+                                                hive="HKEY_LOCAL_MACHINE"
+                                                key="SYSTEM\CurrentControlSet\Control\SecurityProviders\SCHANNEL\Protocols\TLS 1.2\Server"
+                                                name="DisabledByDefault" type="REG_DWORD"
+                                                value="00000000" />
+                                            <Filters />
+                                        </Registry>
+                                    </Collection>
+                                </Collection>
+                            </Collection>
+                        </Collection>
+                    </Collection>
+                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="Lsa">
+                        <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                            name="FipsAlgorithmPolicy">
+                            <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}" name="Enabled"
+                                status="Enabled" image="11" changed="2023-02-25 13:32:19"
+                                uid="{0374AC8B-B4FB-38F6-BFF4-D9529E92D228}">
+                                <Properties action="R" displayDecimal="0" default="0"
+                                    hive="HKEY_LOCAL_MACHINE"
+                                    key="SYSTEM\CurrentControlSet\Control\Lsa\FipsAlgorithmPolicy"
+                                    name="Enabled" type="REG_DWORD" value="00000000" />
+                                <Filters />
+                            </Registry>
+                        </Collection>
+                    </Collection>
+                </Collection>
+            </Collection>
+        </Collection>
+        <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="SOFTWARE">
+            <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="Policies">
+                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="Microsoft">
+                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="Cryptography">
+                        <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                            name="Configuration">
+                            <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="SSL">
+                                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}"
+                                    name="00010002">
+                                    <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                        name="Functions" status="Functions" image="6"
+                                        changed="2023-02-25 13:32:19"
+                                        uid="{3E05CBEA-7362-1191-1F6D-57AD84D241F9}">
+                                        <Properties action="R" displayDecimal="0" default="0"
+                                            hive="HKEY_LOCAL_MACHINE"
+                                            key="SOFTWARE\Policies\Microsoft\Cryptography\Configuration\SSL\00010002"
+                                            name="Functions" type="REG_SZ"
+                                            value="TLS_AES_256_GCM_SHA384,TLS_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384,TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256,TLS_DHE_RSA_WITH_AES_256_GCM_SHA384,TLS_DHE_RSA_WITH_AES_128_GCM_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384,TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256,TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA,TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA,TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA" />
+                                        <Filters />
+                                    </Registry>
+                                </Collection>
+                            </Collection>
+                        </Collection>
+                    </Collection>
+                </Collection>
+            </Collection>
+            <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="Microsoft">
+                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name=".NETFramework">
+                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="v4.0.30319">
+                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                            name="SystemDefaultTlsVersions" status="SystemDefaultTlsVersions"
+                            image="11" changed="2023-02-25 13:32:19"
+                            uid="{C58CE951-4ACC-EF69-ADE3-1FAF248EDFCB}">
+                            <Properties action="R" displayDecimal="0" default="0"
+                                hive="HKEY_LOCAL_MACHINE"
+                                key="SOFTWARE\Microsoft\.NETFramework\v4.0.30319"
+                                name="SystemDefaultTlsVersions" type="REG_DWORD" value="00000001" />
+                            <Filters />
+                        </Registry>
+                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                            name="SchUseStrongCrypto" status="SchUseStrongCrypto" image="11"
+                            changed="2023-02-25 13:32:19"
+                            uid="{2EFD62DF-8E3B-FDC4-3C85-8DEBD2FC61BA}">
+                            <Properties action="R" displayDecimal="0" default="0"
+                                hive="HKEY_LOCAL_MACHINE"
+                                key="SOFTWARE\Microsoft\.NETFramework\v4.0.30319"
+                                name="SchUseStrongCrypto" type="REG_DWORD" value="00000001" />
+                            <Filters />
+                        </Registry>
+                    </Collection>
+                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="v2.0.50727">
+                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                            name="SystemDefaultTlsVersions" status="SystemDefaultTlsVersions"
+                            image="11" changed="2023-02-25 13:32:19"
+                            uid="{20A6E311-5B55-DFED-D7B5-74727289282A}">
+                            <Properties action="R" displayDecimal="0" default="0"
+                                hive="HKEY_LOCAL_MACHINE"
+                                key="SOFTWARE\Microsoft\.NETFramework\v2.0.50727"
+                                name="SystemDefaultTlsVersions" type="REG_DWORD" value="00000001" />
+                            <Filters />
+                        </Registry>
+                        <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                            name="SchUseStrongCrypto" status="SchUseStrongCrypto" image="11"
+                            changed="2023-02-25 13:32:19"
+                            uid="{F01A115C-70E8-C6AA-77CC-9E08E1E04563}">
+                            <Properties action="R" displayDecimal="0" default="0"
+                                hive="HKEY_LOCAL_MACHINE"
+                                key="SOFTWARE\Microsoft\.NETFramework\v2.0.50727"
+                                name="SchUseStrongCrypto" type="REG_DWORD" value="00000001" />
+                            <Filters />
+                        </Registry>
+                    </Collection>
+                </Collection>
+            </Collection>
+            <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="Wow6432Node">
+                <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="Microsoft">
+                    <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name=".NETFramework">
+                        <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="v4.0.30319">
+                            <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                name="SystemDefaultTlsVersions" status="SystemDefaultTlsVersions"
+                                image="11" changed="2023-02-25 13:32:19"
+                                uid="{06D33DA5-048A-AF92-37EB-0375A554C020}">
+                                <Properties action="R" displayDecimal="0" default="0"
+                                    hive="HKEY_LOCAL_MACHINE"
+                                    key="SOFTWARE\Wow6432Node\Microsoft\.NETFramework\v4.0.30319"
+                                    name="SystemDefaultTlsVersions" type="REG_DWORD"
+                                    value="00000001" />
+                                <Filters />
+                            </Registry>
+                            <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                name="SchUseStrongCrypto" status="SchUseStrongCrypto" image="11"
+                                changed="2023-02-25 13:32:19"
+                                uid="{31D63A16-56D3-B2DB-CFEC-439FE22DA648}">
+                                <Properties action="R" displayDecimal="0" default="0"
+                                    hive="HKEY_LOCAL_MACHINE"
+                                    key="SOFTWARE\Wow6432Node\Microsoft\.NETFramework\v4.0.30319"
+                                    name="SchUseStrongCrypto" type="REG_DWORD" value="00000001" />
+                                <Filters />
+                            </Registry>
+                        </Collection>
+                        <Collection clsid="{53B533F5-224C-47e3-B01B-CA3B3F3FF4BF}" name="v2.0.50727">
+                            <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                name="SystemDefaultTlsVersions" status="SystemDefaultTlsVersions"
+                                image="11" changed="2023-02-25 13:32:19"
+                                uid="{69673C7B-5479-C9A7-E2F4-3C7E57E90A9A}">
+                                <Properties action="R" displayDecimal="0" default="0"
+                                    hive="HKEY_LOCAL_MACHINE"
+                                    key="SOFTWARE\Wow6432Node\Microsoft\.NETFramework\v2.0.50727"
+                                    name="SystemDefaultTlsVersions" type="REG_DWORD"
+                                    value="00000001" />
+                                <Filters />
+                            </Registry>
+                            <Registry clsid="{9CD4B2F4-923D-47f5-A062-E897DD1DAD50}"
+                                name="SchUseStrongCrypto" status="SchUseStrongCrypto" image="11"
+                                changed="2023-02-25 13:32:19"
+                                uid="{09565293-8016-2C86-100A-40D1DB0A4D74}">
+                                <Properties action="R" displayDecimal="0" default="0"
+                                    hive="HKEY_LOCAL_MACHINE"
+                                    key="SOFTWARE\Wow6432Node\Microsoft\.NETFramework\v2.0.50727"
+                                    name="SchUseStrongCrypto" type="REG_DWORD" value="00000001" />
+                                <Filters />
+                            </Registry>
+                        </Collection>
+                    </Collection>
+                </Collection>
+            </Collection>
+        </Collection>
+    </Collection>
+</Collection>
